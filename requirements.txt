@@ -1,0 +1,4 @@
+Pillow>=10.0
+imagehash>=4.3
+flask>=3.0
+gunicorn>=21.2
