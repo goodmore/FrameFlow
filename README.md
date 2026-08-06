@@ -1,4 +1,19 @@
-# FrameFlow
+<p align="center">
+  <img src="assets/logo.jpg" width="200" alt="FrameFlow Logo">
+</p>
+
+<h1 align="center">FrameFlow</h1>
+
+<p align="center">将视频浓缩为关键帧图片，输出给多模态大模型</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-3.0+-green?logo=flask&logoColor=white">
+  <img alt="ffmpeg" src="https://img.shields.io/badge/ffmpeg-required-orange">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-purple">
+</p>
+
+---
 
 将视频切片成关键图片，提取关键节点，去除重复帧，输出给多模态大模型。
 
